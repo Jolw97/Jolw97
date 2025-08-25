@@ -130,12 +130,16 @@ Desde pequeno, sempre tive interesse por tecnologia e hoje, estou muito feliz em
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jolw97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jolw97&theme=tokyonight&custom_title=Tecnologias&langs_count=9) |
 |---|---|
 
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jolw97/Jolw97/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jolw97/Jolw97/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jolw97/Jolw97/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
+
 
 ### 📫 Contato
 
